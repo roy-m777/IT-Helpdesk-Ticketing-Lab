@@ -11,15 +11,24 @@ The lab is being built as a hands-on learning project to develop practical skill
 - Develop a consistent troubleshooting methodology
 - Practice identifying symptoms, root causes, and resolutions
 - Document technical issues clearly for future reference
-- Gain hands-on experience with a jelp desk ticketing platform
-- Dimulate common Tier 1 IT support scenarios
+- Gain hands-on experience with a help desk ticketing platform
+- Simulate common Tier 1 IT support scenarios
 - Practice communication technical solutions clearly
 
 ## Lab Environment
 
 - Oracle VirtualBox
-- Windows 10 client virtual machine
+- Ubuntu GLPI Server
+- Windows 10 client and Technician virtual machine
 - GLPI ticketing system
+
+## Infrastructure Build Log
+### Challenge 1
+#### The Problem
+#### The Diagnostic Process
+#### The Solution
+#### Engineering Takeaways
+
 
 ## Planned Support Scenarios
 
@@ -38,3 +47,9 @@ The lab is being built as a hands-on learning project to develop practical skill
 
 The lab is currently being built.
 Additional documentation, troubleshooting scenarios, and ticket examples will be added as the environment develops.
+
+## Ticket Logs and Troubleshooting
+### Issue Description
+### Root Cause Analysis
+### Resolution Steps
+### Knowledge Base & Preventive Action 
